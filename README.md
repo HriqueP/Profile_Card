@@ -1,4 +1,4 @@
-# GreatFrontEnd - Blog Card
+# GreatFrontEnd - Profile Card
 
 Welcome, this is a simples example for a Profile Card Component
 
